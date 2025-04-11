@@ -112,7 +112,7 @@ class AuthController {
        showSnackBar(context, e.toString());
     }
     try {
-      final response = await http.get(Uri.parse('http://192.168.18.147:3000'));
+      final response = await http.get(Uri.parse('http://192.168.1.195:3000'));
       if (response.statusCode == 200) {
         // Process the response
       } else {
