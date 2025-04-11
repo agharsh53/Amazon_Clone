@@ -45,7 +45,7 @@ An Amazon Clone Android application 📱 built using Flutter 💙
 |:-------------------------------:|:--------------------------------:|:----------------------------------:|
 | ![Home](blob/screenshots/0.png) | ![Login](blob/screenshots/1.png) | ![Product](blob/screenshots/2.png) |
 | ![Cart](blob/screenshots/3.png) | ![Admin](blob/screenshots/4.png) | ![Orders](blob/screenshots/5.png)  |
-
+|                             ![SingleProduct](blob/screenshots/6.png)                                    |
 
 ---
 
