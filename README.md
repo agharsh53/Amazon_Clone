@@ -6,7 +6,7 @@ An Amazon Clone Android application 📱 built using Flutter 💙
 ## ❤️ Try App
 ### 📲 Scan QR Code
 <img src="https://github.com/agharsh53/Amazon_Clone/blob/screenshots/qr_amazonclone.png" width="200" height="200">  
-*_(Make sure the QR code image exists in your repo's screenshots folder)_*
+
 
 ---
 
@@ -41,12 +41,11 @@ An Amazon Clone Android application 📱 built using Flutter 💙
 
 ## 📸 Screenshots
 
-|                            |                            |                            |
-|:--------------------------:|:--------------------------:|:--------------------------:|
-| ![Home](screenshots/0.png) | ![Login](screenshots/1.png) | ![Product](screenshots/2.png) |
-| ![Cart](screenshots/3.png) | ![Admin](screenshots/4.png) | ![Orders](screenshots/5.png) |
+|                                 |                                  |                                    |
+|:-------------------------------:|:--------------------------------:|:----------------------------------:|
+| ![Home](blob/screenshots/0.png) | ![Login](blob/screenshots/1.png) | ![Product](blob/screenshots/2.png) |
+| ![Cart](blob/screenshots/3.png) | ![Admin](blob/screenshots/4.png) | ![Orders](blob/screenshots/5.png)  |
 
-*_(Update image paths if needed)_*
 
 ---
 
