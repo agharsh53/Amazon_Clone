@@ -5,7 +5,7 @@ An Amazon Clone Android application 📱 built using Flutter 💙
 
 ## ❤️ Try App
 ### 📲 Scan QR Code
-<img src="https://github.com/agharsh53/Amazon_Clone/blob/screenshots/qr_amazonclone.png" width="200" height="200">  
+<img src="https://github.com/agharsh53/Amazon_Clone/blob/screenshots/qr_amazonclone.png" width="300" height="300">  
 
 
 ---
@@ -63,7 +63,7 @@ This app demonstrates a powerful integration of **Firebase Authentication**, **C
 |:-------------------------------:|:--------------------------------:|:----------------------------------:|
 | ![Home](blob/screenshots/0.png) | ![Login](blob/screenshots/1.png) | ![Product](blob/screenshots/2.png) |
 | ![Cart](blob/screenshots/3.png) | ![Admin](blob/screenshots/4.png) | ![Orders](blob/screenshots/5.png)  |
-|                             ![SingleProduct](blob/screenshots/6.png)                                    |
+| ![SingleProduct](blob/screenshots/6.png) |  ![OrderPlaceDetails](blob/screenshots/7.png) |
 
 ---
 
