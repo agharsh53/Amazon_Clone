@@ -11,10 +11,28 @@ An Amazon Clone Android application 📱 built using Flutter 💙
 ---
 
 ### 📦 Get APK
-[Download here](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)  
-*_(Replace with your actual APK download link)_*
+[Download here](https://drive.google.com/file/d/1JT0FN5KJWJXXGRHOGpy1DOU1e3rp0HJM/view?usp=drive_link)
 
 ---
+
+## 🛍️ Amazon Clone App
+
+The **Amazon Clone App** is a full-featured e-commerce mobile application built using **Flutter**. It mimics the core functionalities of Amazon, including a rich user experience for both customers and admins.
+
+Users can browse products by categories, view detailed product descriptions, add items to their cart, and complete orders. Admins can sign in through a dedicated panel to add, update, and manage product listings with image upload functionality.
+
+This app demonstrates a powerful integration of **Firebase Authentication**, **Cloudinary image uploads**, **state management with Provider**, and RESTful APIs — all wrapped in a modern and responsive Flutter UI.
+
+---
+
+### 💡 Use Cases
+
+- Practice real-world mobile app development using Flutter
+- Learn how to build scalable app architecture with provider
+- Firebase authentication implementation
+- Client-server communication via APIs
+- Admin dashboard + user interface within one codebase
+  
 
 ## ⚙️ Features
 
